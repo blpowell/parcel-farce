@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/parcel-domain/parcel-domain.iml" filepath="$PROJECT_DIR$/parcel-domain/parcel-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcel-farce.iml" filepath="$PROJECT_DIR$/parcel-farce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcel-service/parcel-service.iml" filepath="$PROJECT_DIR$/parcel-service/parcel-service.iml" />
+    </modules>
+  </component>
+</project>

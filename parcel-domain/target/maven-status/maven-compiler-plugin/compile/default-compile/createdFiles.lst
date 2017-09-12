@@ -1,0 +1,9 @@
+uk/co/parcelfarce/events/ParcelMoved.class
+uk/co/parcelfarce/events/ParcelDelivered.class
+uk/co/parcelfarce/domain/Address.class
+uk/co/parcelfarce/events/ParcelReturnedToDepot.class
+uk/co/parcelfarce/events/ParcelLoadedOnToVan.class
+uk/co/parcelfarce/events/ParcelOutForDelivery.class
+uk/co/parcelfarce/domain/Priority.class
+uk/co/parcelfarce/events/ParcelReceived.class
+uk/co/parcelfarce/domain/Parcel.class
