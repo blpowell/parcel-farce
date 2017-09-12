@@ -1,9 +1,0 @@
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/events/ParcelReturnedToDepot.java
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/events/ParcelLoadedOnToVan.java
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/domain/Priority.java
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/events/ParcelMoved.java
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/events/ParcelDelivered.java
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/events/ParcelOutForDelivery.java
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/domain/Parcel.java
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/events/ParcelReceived.java
-/home/bp/projects/parcel-farce/parcel-domain/src/main/java/uk/co/parcelfarce/domain/Address.java
